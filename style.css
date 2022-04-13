@@ -2,9 +2,6 @@ body {
     text-align: center;
   }
   
-  block {
-    display: inline-block;
-  }
    span {
     display: inline-block;
     background-color: lightblue;
